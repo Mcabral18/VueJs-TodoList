@@ -1,29 +1,5 @@
-# todo
+# TodoList
 
-## Project setup
-```
-npm install
-```
+Dynamic - Add - Delete - Select - LocalStorage
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![todo](https://user-images.githubusercontent.com/64281795/106027871-36d8d000-60c3-11eb-949e-878f9a384f3c.png)
